@@ -27,8 +27,64 @@ print(friends)
 # lucky_number.extend(friends)
 # print(lucky_number)
 
-friends.append("creed")
-print(friends)
+# friends.append("creed")
+# print(friends)
+
+# # you can also insert element
+# friends.insert(1,"kelly")
+# print(friends)
+
+# # you can also remove element
+# friends.remove("kelly")
+# print(friends)
+
+#clear to give us an empty list
+# friends.clear()
+# print(friends)
+
+# # to delete last item in a list
+# friends.pop()
+# print(friends)
+
+
+# # to find a specific item
+# print(friends.index("sammy"))
+
+
+# # to find a specific integer
+# if 16 in friends: 
+#     print( 'Test 2 True' )
+# else: 
+#     print( 'Test 2 False'  )
+
+# # to count values in a list
+# print(friends.count("sammy"))
+
+# # sort numbers
+# lucky_number.sort()
+# print(lucky_number)
+
+# friends2 = friends.copy()
+# print(friends2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
